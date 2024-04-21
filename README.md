@@ -7,4 +7,5 @@ The project utilizes a sample database with tables containing job review data an
 The project includes two case studies:
 
 **Job Data Analysis:** Analyzes job review data including jobs reviewed over time, throughput analysis, language share, and duplicate row detection.
+
 **Investigating Metric Spike:** Analyzes user activity data including weekly user engagement, user growth, weekly retention, weekly engagement per device, and email engagement analysis.
